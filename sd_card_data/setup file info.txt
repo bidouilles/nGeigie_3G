@@ -1,0 +1,14 @@
+Readme setup nGeigie V2.1.3
+
+Sd card files:
+	NGEIGIE.CFG contains setup files for nGeigie format in the following sequence:
+		-api key
+		-ID
+		-LON
+		-LAT
+		-Tube 1 (7318 of 712)
+		-Tube 2 (7318 of 712)
+		
+		
+		 
+		
