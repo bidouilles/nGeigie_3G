@@ -4,5 +4,5 @@ api=q1LKu7RQ8s5pmyxunnDW
 lat=34.4772923
 lon=136.1473367
 s1e=1
-s1f=350
+s1f=344
 s2e=0
