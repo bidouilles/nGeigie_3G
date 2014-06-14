@@ -2,8 +2,8 @@
    Simple library to handle ngeigie configuration from file and EEPROM
 */
 
-#include "nGeigieSetup.h"
-#include "nGeigieDebug.h"
+#include "nGeigie3GSetup.h"
+#include "nGeigie3GDebug.h"
 
 nGeigieSetup::nGeigieSetup(SoftwareSerial &openlog, ConfigType &config,
     char * buffer, size_t buffer_size):

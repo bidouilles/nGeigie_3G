@@ -22,8 +22,8 @@
 #include <avr/wdt.h>
 #include <limits.h>
 #include <EEPROM.h>
-#include "nGeigieSetup.h"
-#include "nGeigieDebug.h"
+#include "nGeigie3GSetup.h"
+#include "nGeigie3GDebug.h"
 
 
 #define LINE_SZ 95
@@ -305,6 +305,9 @@ void SendDataToServer(float CPM) {
 
 
 void loop() {
+
+    
+
     // Main Loop
     if (elapsedTime(lastConnectionTime) < updateIntervalInMillis)
     {
